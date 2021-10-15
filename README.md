@@ -1,4 +1,4 @@
-### Hi there 👋
+## Olá Seja bem vindo ao meu perfil 👋
 
 <div align="center">
   <a href="https://github.com/josedembo">
@@ -22,3 +22,5 @@
    <a href="https://www.instagram.com/dembo_jose/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:josepedrodanieldembo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+  
+  <div> Convido-lhe a ver alguns dos meus projetos: <a href="https://github.com/demboProjects">demboProjects </a></div>
