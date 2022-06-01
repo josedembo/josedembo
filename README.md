@@ -23,4 +23,4 @@
    <a href = "mailto:josepedrodanieldembo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-  <div><h3> Convido-lhe a conhecer alguns dos meus projetos em andamento: <a href="https://github.com/demboProjects">demboProjects </a><h3></div>
+  <div><h3>Convido-lhe a conhecer alguns dos meus projetos: <a href="https://github.com/demboProjects">demboProjects </a><h3></div>
